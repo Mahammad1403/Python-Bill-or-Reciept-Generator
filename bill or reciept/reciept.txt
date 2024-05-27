@@ -1,0 +1,12 @@
+*************************  Template Store  *************************
+
+1). 	 ball  of code  1236  of quantity  
+ 2  billed  50x2units  =  
+ 	 Rs.100  
+2). 	 bat  of code  1000  of quantity  
+ 1456  billed  2x1456units  =  
+ 	 Rs.2912  
+
+
+!!! Your bill total is  Rs.3012 only . Thanks for shopping with us !!!
+
